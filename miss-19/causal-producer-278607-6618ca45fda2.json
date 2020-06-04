@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "causal-producer-278607",
+  "private_key_id": "6618ca45fda223941c939ec7182a3b4eedc83d8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/ARiU8UmqDEuR\nBsuL/WC3Tsq8FF6seg+h6RSUuUs9vvfMOcSqY6tauyXnfoAHctsPyC2O8Awgs2TO\nAp3A6jYVaKfR2Uolp6xtpVQ7vHc0bw0MVpy6uXTk7oo25kTCYE8YLCqg4Y8PLpkG\nk4K2gBMlZfpHpsDboI19Fby8vSP+qjQIyQbGqefiKIq+MeF/3FSnrHL0bichS3Pj\nh+qGnHUc3UgKldBpMl/Mjo3zbXrBIlpM6W3VXOQy+HGYBTg7jlujzlrnXdhCGzY5\njCKSAO7LTa7kBqg3sY20JOBr8BNjiKBxv3stLvahxxfFaAo1K7/RmbrRNSo5GoDn\n3EnV8g/hAgMBAAECggEAAg1Y1mPTxOkSKEYcin3fy8Rj0vq8jCmZEKYkj5cAjxKl\nzqrJuUNuIEDNvtOZ/EqAfkZKMASV+sV2pix6xat2hosb73ogTPCE3p41vhkPpk9x\nolHtZ+etcPa7oyyc7UIz41h5IkaeHv2DDSIpV7zfR8n1Uw8AeDOcxYzl3NjC4d3t\nPeBQCECI5/URICqUTR+VQtLG11gk63uSclnPQBIkcfkPJZ2onAw2P7giEAH5hWZn\n91YKGv66iEk5DcVaEKVByIPhuucfQMPYO+Oa5eIhfmz7Tyc3HjqJNiqzxyNBAniN\nnIW7PjrmJc7id1XBR9Dl24gOQlNxoAl0gC/OkIvT2QKBgQD4QQWj/mXs6WW2oG1/\nj50nzaLmOYtzNBLNPfmUHvPdubWza9EkyuG75HPldbsJnNs69BR1TfJehyF/sWe0\neYUF8uXmELlDv9vbI3jw5xq+axGLcuj//IDLySaUYw24UR2wAZau4PS5VxN5SkLg\nSwvMwaqcyC5LzzBK/ynTOnO5qQKBgQDE9sfT1GAZg78Gv+/AE0haGuAt1tcnfw/d\nnpm1NEwxXRAtcEGcl201iszL+p2plhot2OXl7cbEvuE6hs2Q2PX0eRXQT0QhqUAg\n91IfuG6HETZfSpF+E8cdvKtU9HeYBloA0Ru/0GEvoMP4kSbZREVs1ss+zLyJQQeC\nho6mpvw3eQKBgFnZ7ti0Mt/UeePnnLoWmKLXYqZBHZ/MsSFn1PUvXsRZetI9q6zN\nYXZH8UqTmeaYxyBHR0BNvfNIpW86HnbLpMHKcDscwnEq98AQzq0ieCODTQ5TwNEl\n6tfXLgd28nhLo5sYeBlDgk+ynHHB1wKnJtYtIjssmNUHYEtEnza8aTZBAoGBAKiI\ndPHnfhc26OSQpUfX+AfJiVsPwufzzBKY2/L1/eAbPnVy4WFpHLQ8wQIkvnVWj639\nMrIsY/EDV1sp74lqbAI0/ZpRyP14gfvzQ90KheCitMCS4K1dpPnn7z5xNEfr32Vl\nh/X4CsCjMixlnzU3OqRnol9o9kYHU7K3CibFKXkZAoGBAN1O4LrQJ+6tpx1q2Ay0\nUzzM4xYveFrJZ0M3K3Hcs/ou02QJuMxpryxRaMcke3+diN19k/lW6w/RR6nuPWcq\nk6xineCWuK8TZK4FKaKWDGjTcSLCv3pDOh1jY5IGFzeW8K8Dm2hynwgU0wm8pKeb\nKHn+Ywl9HG9oWEe91myiEAci\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-stock-linebot@causal-producer-278607.iam.gserviceaccount.com",
+  "client_id": "110343676655761159738",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-stock-linebot%40causal-producer-278607.iam.gserviceaccount.com"
+}
